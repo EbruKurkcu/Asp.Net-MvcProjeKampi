@@ -162,4 +162,14 @@ PROJE İLERLEYİŞİ -20-
 PROJEDEN GÖRSELLER
 
 
-
+![resim7](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/a36a1452-b9d0-4f63-ae5e-b113d76edb5a)
+![resim8](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/c4577820-b54c-46fa-9b5e-a9f018748465)
+![resim6](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/074ebc2d-2e68-4f9b-8cb8-436a94075f08)
+![resim5](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/726de4b7-0b20-4619-a135-96a7ddd0789e)
+![resim4](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/3c15a1dc-b860-4fb6-9c7f-6e5c4f019300)
+![resim3](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/84204699-5e4a-4a41-a15c-df4fc79436a7)
+![resim2](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/5e10fcd3-16b4-4b4f-ac8e-85ce304c0a44)
+![resim1](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/1c067863-e725-4c49-8c45-974b5d19fc23)
+![resim9](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/bcce462a-cafe-4bba-bff0-13d8bf38ac9f)
+![resim11](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/aa701d32-3dd8-47a6-8c54-59f0fe5c1573)
+![resim22](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/04cfa72f-35d9-4017-9f31-e5f21d3cef1b)
