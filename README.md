@@ -170,6 +170,6 @@ PROJE İLERLEYİŞİ -20-
     Yetkilendirme düzenlemeleri yapıldı
 
 PROJEDEN GÖRSELLER
-![1](https://github.com/EbruKurkcu/Asp.Net-MvcProjeKampi/assets/81236471/62eabc3d-aee8-412b-9e7a-0d43eda9917e)
+
 
 
