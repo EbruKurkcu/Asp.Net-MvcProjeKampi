@@ -2,44 +2,38 @@ MVC PROJE KAMPI - PROJE İÇERİĞİ
 
 PROJE İLERLEYİŞİ -1-
 
-    Giriş yapıldı ve proje oluşturuldu.
-    View, Controller ve Layout kavramları üzerinde duruldu.
-    Katmanların oluşturuldu.
+    Proje oluşturuldu.
+    Katmanlar oluşturuldu.
     Entity katmanı sınıfları oluşturuldu.
     Category, About ve Contact sınıfları oluşturuldu.
-    Tablolar rasında ilişkiler oluşturuldu.
-    Key ve StringLength Attributeleri üzerinde duruldu.
+    Tablolar rasında ilişkiler yapıldı.
+    Key ve StringLength Attributeleri eklendi.
     Context sınıfı oluşturuldu.
     Webconfig yapılandırması ve bağlantı ayarları yapıldı.
     Migration işlemleri tamamlandı ve veritabanı oluşturuldu.
     Add Migration işlemi tamamlandı.
-    SQL üzerinde örnek veri girişleri yapıldı.
+    SQL üzerinde veri girişleri yapıldı.
     Abstract ve Interface bileşenleri oluşturuldu.
     Repository sınıfı oluşturuldu ve metotların içi dolduruldu.
-    Generic Interface kavramı üzerinde duruldu.
-    Generic Repository kavramı üzerinde duruldu.
     BusinessLayer katmanı üzerinde çalışma yapıldı.
-    Tablo kullanımı çalışmaları yapıldı.
 
 PROJE İLERLEYİŞİ -2-
 
     Bootstrap kavramı üzerinde çalışmalar yapıldı.
     Kategorilerin listelenmesi yapıldı.
-    Breakpoint kavramı hakkında bilgi verildi.
     Kategori ekleme işlemine giriş yapıldı.
 
 PROJE İLERLEYİŞİ -3-
 
-    HttpGet ve HttpPost attributeleri hakkında bilgi verildi.
-    Kategori ekleme hataları ve verilmesi gereken hata mesajları konusundan bahsedildi.
-    Business Layer katmanında Abstract ve Interface olarak ICategoryService kavramları gösterildi.
+    HttpGet ve HttpPost attributeleri eklendi
+    Business Layer katmanında Abstract ve Interface olarak ICategoryService kavramları eklendi.
     Constructor Business Metot oluşturuldu.
 
 PROJE İLERLEYİŞİ -4-
 
     DataAccessLayer katmanında entity framework sınıfları oluşturuldu.
     Fluent Validation kavramına giriş yapıldı ve ilgili bileşenler kuruldu.
-    Validasyon işlemlerinden bahsedildi.
+    Validasyon işlemleri yapıldı.
     Html helper kapsamında "ValidationMessageFor" kullanımı gösterildi ve hata mesajları ilgili yerlerde gösterildi.
 
 PROJE İLERLEYİŞİ -5-
@@ -51,14 +45,13 @@ PROJE İLERLEYİŞİ -5-
 
 PROJE İLERLEYİŞİ -6-
 
-    Kategori silme işlemi için kategorinin buldurulması için GetByID kavramı gösterildi.
+    Kategori silme işlemi için kategorinin buldurulması için GetByID kavramı eklendi.
     Kategori silme işlemi gerçekleştirildi.
     Kategori güncelleme işlemi için güncellenecek kategori bilgilerinin güncelleme sayfasına taşınması işlemleri yapıldı.
     Kategori güncelleme işlemine giriş yapıldı.
 
 PROJE İLERLEYİŞİ -7-
 
-    Entity State komutları ile ekleme, güncelleme ve silme yapıları düzenlendi.
     Yazar listeleme, ekleme, güncelleme ve silme yapıları yapıldı.
     Yazar profilleri listesi sayfası ayarlandı.
     Add migration işlemi ile database güncellendi ve yazar ekleme sayfası yapıldı.
@@ -67,7 +60,7 @@ PROJE İLERLEYİŞİ -8-
 
     Yazar düzenleme metotdu ve sayfası eklendi.
     ValidationMessage yazıları kırmızı yapıldı.
-    WriterTitle migration ile veri tabanına eklendi ve Yazar sayfasına entergre edildi.
+    WriterTitle migration ile veri tabanına eklendi ve Yazar sayfasına entegre edildi.
     IHeadingService,Heading Manager ve HeadingController oluşturuldu.
     Başlık listeleme sayfası oluşturuldu.
     Yeni başlık girişi işlemleri yapıldı.
@@ -116,7 +109,7 @@ PROJE İLERLEYİŞİ -13-
 
     Mesaj sayfası revizeleri yapıldı.
     Mesaj sayfası işlemleri tamamlandı.
-    404 Hata sayfasu yapıldı.
+    404 Hata sayfası yapıldı.
     Galeri yapıldı.
 
 PROJE İLERLEYİŞİ -14-
@@ -146,7 +139,6 @@ PROJE İLERLEYİŞİ -17-
     Vitrin Sayfası Hazırlandı.
     Vitrin sayfasında tüm başlıklar listelendi.
     Vitrin sayfasında başlığa göre yazıların getirilmesi işlemi yapıldı.
-    Başlıklara yeni entry girişi sağlandı.
 
 PROJE İLERLEYİŞİ -18-
 
@@ -159,11 +151,9 @@ PROJE İLERLEYİŞİ -19-
 
     Vitrin Teması Hazırlandı.
     Vitrin Statik bir yapıda olup Türkçeleştirildi.
-    Entrylere arama özelliği getirildi.
 
 PROJE İLERLEYİŞİ -20-
 
-    IFrame eklendi.
     Yazar görselleri düzeltildi.
     Google chartlar eklendi.
     Raporlama sayfası oluşturuldu.
